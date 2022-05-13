@@ -5,6 +5,8 @@ Identifying Figures and Figure Captions in Image-Based Documents
 1.Installation paths must be set as required
 2.Creation of folders manually if the environment used is google colab. This means the folders that are used for saving extracted text and images from the input documents .
 
+**Problem statement**
+There is currently no system which can detect and understand figures in documents. This causes inconvenience to visually challenged individuals , people who cannot see the screen at that particular instance . This puts the above two domains in backseat in day to day functions. Also, to recognize huge dataset of image-based documents, there is no automated  system that can detect and analyze images, to work on this a lot of individual’s time is wasted.
 
 **Approach** 
 1. Extract the text and images from the document and save them in a folder
